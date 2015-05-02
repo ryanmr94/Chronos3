@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chronos</string>
+    <string name="activity">Wake Up</string>
+
+    <string name="hello_world">What time does your day start?</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="times">
+        <item>0 Minutes Before</item>
+        <item>15 Minutes Before </item>
+        <item>30 Minutes Before </item>
+        <item>45 Minutes Before </item>
+        <item>1 Hour Before</item>
+        <item>1 Hour and 15 Minutes Before </item>
+        <item>1 Hour and 30 Minutes Before</item>
+        <item>1 Hour and 45 Minutes Before</item>
+        <item>2 Hours Before </item>
+
+
+    </string-array>
+
+</resources>

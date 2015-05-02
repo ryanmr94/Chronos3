@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ryan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Ryan\Desktop\Chronos2\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-2fd570276089e64ae3000fcc94cdabf53a758bc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Desktop\Chronos2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Ryan\Desktop\Chronos2\app\build\intermediates\pre-dexed\debug\classes-b2a6dde581c982fc4d7a7a4569ef41924d229274.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Desktop\Chronos2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Ryan\Desktop\Chronos2\app\build\intermediates\pre-dexed\debug\classes-648e1d891cd3a63029c91cfe29ac60680ddf7b41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Desktop\Chronos2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Ryan\Desktop\Chronos2\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2273884aa018438431d627e7270ea860757d98fe.jar" />
+    </item>
+
+</items>
